@@ -12,7 +12,7 @@ I am a data science student with a passion for geometry. I am eager to learn and
 - Outside tech, 💜 I love music, 🎮 playing lolsito and 🏋️ going to the jinasio.
 - 👾 Pura pinche geometria
 
-## My Skills Include
+## Tech
 
 [![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow&style=for-the-badge)](https://www.python.org/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/home)
